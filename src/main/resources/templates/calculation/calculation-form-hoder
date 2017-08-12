@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	
+	
+	<head>
+		<title>Enter your Numbers</title>
+	</head>
+	
+	<body>
+	
+		{{> calculation/calculation-form }}
+	</body>
+	
+</html>
